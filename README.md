@@ -1,7 +1,14 @@
 # DialogPaper
 List of papers related to dialogue systems
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--14-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-25-2D333B" alt="PaperNum"/>
+
+## Persona Dialogue 
+
+## Persona Dialogue with Persona Update
+
+## Datasets
+
+## Multi-modal Dialogue 
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
