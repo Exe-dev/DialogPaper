@@ -3,7 +3,7 @@ List of papers related to dialogue systems
 
 
 # <img src="https://img.shields.io/badge/Paper%20Type-PersonalizedDialogueModel-blue" alt="Model"/>
-- `NAACL22` Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.377/)
+- `NAACL22` Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.377/) [[code]](https://github.com/hyperconnect/pseudo-dialog-prompting)
 - `NAACL22` Building a Personalized Dialogue System with Prompt-Tuning, 2022.[[peper]](https://aclanthology.org/2022.naacl-srw.13/) 
 - `NAACL22` Am I Me or You? State-of-the-Art Dialogue Models Cannot Maintain an Identity, 2021. [[paper]](https://aclanthology.org/2022.findings-naacl.182/)
 - Federated Natural Language Generation for Personalized Dialogue System, 2021. [[paper]](https://arxiv.org/abs/2110.06419)
