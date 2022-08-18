@@ -21,6 +21,9 @@ List of papers related to dialogue systems
 - `ACL19` Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment, 2019. [[paper]](https://aclanthology.org/P19-1535/)
 - `EMNLI18` Training Millions of Personalized Dialogue Agents, 2018.[[paper]](https://aclanthology.org/D18-1298/)
 - `ACL16` A Persona-Based Neural Conversation Model ,2016. [[paper]](https://arxiv.org/abs/1603.06155)
+# <img src="https://img.shields.io/badge/Paper%20Type-JapaneseDialogueModel-red" alt="framework"/>
+- Empirical Analysis of Training Strategies of Transformer-based Japanese Chit-chat Systems, 2021. [[paper]](https://arxiv.org/abs/2109.05217) [[code]](https://arxiv.org/abs/2109.05217) [[datasets]](https://www.dropbox.com/s/sda9wzexh7ntlij/japanese_persona_chat.xlsx?dl=0)
+ 
 # <img src="https://img.shields.io/badge/Paper%20Type-framework-lgreen" alt="framework"/>
 - `EMNLP21` Transferable Persona-Grounded Dialogues via Grounded Minimal Edits, 2021. [[paper]](https://arxiv.org/abs/2109.07713)
 - `EMNLP20` Towards Persona-Based Empathetic Conversational Models, 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.531) [[code]](https://github.com/zhongpeixiang/PEC)
@@ -41,5 +44,6 @@ List of papers related to dialogue systems
 [[dataset]](https://github.com/facebookresearch/ParlAI/tree/main/projects/convai2)
 - `IJCNLP17` DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset, 2017.
 [[paper]](https://aclanthology.org/I17-1099/)[[dataset]](https://aclanthology.org/attachments/I17-1099.Datasets.zip)
+
 # <img src="https://img.shields.io/badge/Paper%20Type-MultiModal-blue" alt="lightbleu"/>
 - `EMNLP21` Multi-Modal Open-Domain Dialogue, 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.398/)
