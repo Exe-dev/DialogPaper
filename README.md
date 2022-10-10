@@ -51,4 +51,7 @@ List of papers related to dialogue systems
 # <img src="https://img.shields.io/badge/Paper%20Type-AttributionforDeepNetworks-red" alt="attr"/>
 - 'ICML 17' Axiomatic Attribution for Deep Networks, 2017. [[paper]](http://proceedings.mlr.press/v70/sundararajan17a.html)
 
+# <img src="https://img.shields.io/badge/Paper%20Type-MultiModal-blue" alt="Model"/>
+- 'IEEE 17' Visual Dialog, 2017. [[paper]](https://arxiv.org/abs/1611.08669)
+- 'EMNLP 21' Multi-Modal Open-Domain Dialogue, 2017. [[paper]](https://aclanthology.org/2021.emnlp-main.398/)
 
