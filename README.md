@@ -55,3 +55,4 @@ List of papers related to dialogue systems
 - 'IEEE 17' Visual Dialog, 2017. [[paper]](https://arxiv.org/abs/1611.08669)
 - 'EMNLP 21' Multi-Modal Open-Domain Dialogue, 2017. [[paper]](https://aclanthology.org/2021.emnlp-main.398/)
 
+- Survey of Hallucination in Natural Language Generation [[paper]](https://arxiv.org/abs/2202.03629)
