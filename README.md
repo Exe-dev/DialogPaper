@@ -56,3 +56,6 @@ List of papers related to dialogue systems
 - 'EMNLP 21' Multi-Modal Open-Domain Dialogue, 2017. [[paper]](https://aclanthology.org/2021.emnlp-main.398/)
 
 - Survey of Hallucination in Natural Language Generation [[paper]](https://arxiv.org/abs/2202.03629)
+
+# <img src="https://img.shields.io/badge/Paper%20Type-EvaluationMetrics-green" alt="EvaluationMetrics"/>
+- A Comprehensive Assessment of Dialog Evaluation Metrics [[paper]](https://arxiv.org/abs/2106.03706)
