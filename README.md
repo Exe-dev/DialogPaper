@@ -1,6 +1,7 @@
 # DialogPaper
 List of papers related to dialogue systems
 
+# <img src="https://img.shields.io/badge/Paper%20Type-PersonalizedDialogueModel-black" alt="TopicTransition"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-PersonalizedDialogueModel-blue" alt="Model"/>
 - `NAACL22` Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.377/) [[code]](https://github.com/hyperconnect/pseudo-dialog-prompting)
